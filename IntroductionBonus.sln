@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionBonus", "IntroductionBonus\IntroductionBonus.csproj", "{4E29E0B4-3D39-4A27-A454-42680C13D231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{F8404570-91B5-49F7-9FB2-589E85A77F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E29E0B4-3D39-4A27-A454-42680C13D231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E29E0B4-3D39-4A27-A454-42680C13D231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E29E0B4-3D39-4A27-A454-42680C13D231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E29E0B4-3D39-4A27-A454-42680C13D231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8404570-91B5-49F7-9FB2-589E85A77F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8404570-91B5-49F7-9FB2-589E85A77F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8404570-91B5-49F7-9FB2-589E85A77F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8404570-91B5-49F7-9FB2-589E85A77F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2364EA-B903-4113-AAE0-C7302296DF1F}
+	EndGlobalSection
+EndGlobal
